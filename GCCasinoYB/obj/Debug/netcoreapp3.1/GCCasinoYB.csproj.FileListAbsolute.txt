@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\bin\Debug\netcoreapp3.1\GCCasinoYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\GCCasinoYB\GCCasinoYB\obj\Debug\netcoreapp3.1\GCCasinoYB.genruntimeconfig.cache
