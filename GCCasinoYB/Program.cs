@@ -49,8 +49,9 @@ namespace GCCasinoYB
                 string keepGoing = Console.ReadLine();
                 if (keepGoing == "n")
                 {
-                    Console.WriteLine("Thanks for playing!");
+                    Console.WriteLine("Thank you for playing!");
                     break;
+
                 }
                 else if (keepGoing == "y")
                 {
